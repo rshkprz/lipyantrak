@@ -1,0 +1,9 @@
+server/venv/
+
+server/temp_audio.wav
+
+server/model/model.safetensors
+
+server/__pycache__/
+
+
